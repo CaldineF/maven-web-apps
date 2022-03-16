@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://54.166.84.175:8081/repository/Webapps_release/</url>
+	      <url> http://54.166.84.175:8081/repository/CaldineWebapps_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.166.84.175:8081/repository/Webapp/</url>
+	      <url>http://54.166.84.175:8081/repository/Caldinewebapps/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
